@@ -1,0 +1,12 @@
+FileName,FileExists
+radar_signal_simulation.png,1
+radar_fft_analysis.png,1
+radar_target_detection.png,1
+radar_detection_performance.png,1
+threshold_vs_detection_probability.png,1
+threshold_vs_false_alarm_probability.png,1
+radar_roc_curve.png,1
+radar_snr_analysis.png,1
+radar_detection_results.csv,1
+radar_simulation_parameters.csv,1
+radar_project_report.txt,1

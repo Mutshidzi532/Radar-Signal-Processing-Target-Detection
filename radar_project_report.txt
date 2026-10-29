@@ -1,0 +1,29 @@
+RADAR SIGNAL PROCESSING AND TARGET DETECTION
+============================================
+
+Project objective:
+Simulate a target signal, analyse its frequency, and evaluate threshold-based detection performance.
+
+Simulation configuration:
+Sampling frequency: 1000.00 Hz
+Target frequency: 50.00 Hz
+Target amplitude: 1.00
+Noise standard deviation: 0.30
+
+Detection performance across thresholds:
+
+Threshold | Probability of Detection | Probability of False Alarm
+0.50 | 1.0000 | 1.0000
+0.75 | 1.0000 | 1.0000
+1.00 | 1.0000 | 0.5768
+1.25 | 1.0000 | 0.0232
+1.50 | 1.0000 | 0.0006
+1.75 | 0.7892 | 0.0000
+2.00 | 0.0930 | 0.0000
+2.25 | 0.0030 | 0.0000
+2.50 | 0.0002 | 0.0000
+2.75 | 0.0000 | 0.0000
+3.00 | 0.0000 | 0.0000
+
+Limitations:
+This project uses simulated sinusoidal signals and Gaussian noise. Results are not measurements of real radar hardware performance.

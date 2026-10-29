@@ -1,0 +1,8 @@
+Parameter,Value
+Sampling Frequency (Hz),1000
+Signal Duration (seconds),1
+Target Frequency (Hz),50
+Target Amplitude,1
+Noise Standard Deviation,0.3
+Number of Detection Trials,10000
+Number of Threshold Trials,5000

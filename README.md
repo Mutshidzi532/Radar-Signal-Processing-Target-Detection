@@ -116,3 +116,36 @@ Skills Demonstrated
 Conclusion
 
 This project demonstrates a foundational radar signal processing workflow through MATLAB simulation. It applies mathematical and statistical techniques to explore signal characteristics, target detection, and detector performance under simplified noisy conditions.
+Visual Results
+
+1. Simulated Radar Signal
+
+This figure shows the simulated target signal and its noise.
+
+2. FFT Analysis
+
+The frequency spectrum illustrates how FFT analysis identifies the dominant frequency component.
+
+3. Target Detection
+
+This figure illustrates the result of applying the selected amplitude threshold to the simulated signal.
+
+4. Detection Performance
+
+The Monte Carlo simulation estimates the probability of detection and probability of false alarm under the selected assumptions.
+
+5. Threshold Versus Detection Probability
+
+This figure shows how the estimated probability of detection changes with the detection threshold.
+
+6. Threshold Versus False Alarm Probability
+
+This figure shows how the estimated probability of false alarm changes with the detection threshold.
+
+7. Receiver Operating Characteristic (ROC)
+
+The ROC curve compares detection probability against false alarm probability across the tested thresholds.
+
+8. Signal-to-Noise Ratio Analysis
+
+This figure illustrates the theoretical relationship between noise level and signal-to-noise ratio.

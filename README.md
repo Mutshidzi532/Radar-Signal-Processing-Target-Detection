@@ -116,7 +116,8 @@ Skills Demonstrated
 Conclusion
 
 This project demonstrates a foundational radar signal processing workflow through MATLAB simulation. It applies mathematical and statistical techniques to explore signal characteristics, target detection, and detector performance under simplified noisy conditions.
-Visual Results
+
+##Visual Results
 
 1. Simulated Radar Signal
 
